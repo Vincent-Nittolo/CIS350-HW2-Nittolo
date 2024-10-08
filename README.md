@@ -8,4 +8,4 @@ I have experience with coding in Python, Java, C, and SQL. I have hands experien
 
 This is a [link](https://aliraza.org/profile.jpg) to my favorite meme
 
-![image](https://github.com/Vincent-Nittolo/CIS350-HW2-Nittolo/blob/main/Mappy%20.jpg)
+![](https://github.com/Vincent-Nittolo/CIS350-HW2-Nittolo/blob/main/Mappy%20.jpg)
